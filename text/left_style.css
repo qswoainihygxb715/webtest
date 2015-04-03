@@ -1,0 +1,36 @@
+.button{
+    display: block;
+    width: 180px;
+    height: 50px;
+    text-decoration: none;
+    line-height: 50px;
+    color:#2DCB70;
+    font-family: "Î¢ÈíÑÅºÚ", Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    border: 1px solid rgba(255,255,255,0.8);
+    padding-left: 20px;
+    margin: 0 20px;
+    -webkit-box-sizing: border-box;
+    background: url("allow.png") no-repeat 130px center;
+    transition: 0.4s ease;
+}
+
+.box{
+    width: 2000px;
+    height: 200px;
+    margin: 20px auto;
+}
+
+.box .link{
+    width: 25px;
+    height: 200px;
+    margin: 10px 10px;
+
+}
+.button:hover{
+    border: 2px solid rgba(255,255,255,1);
+    background-position: 140px center;
+}
+body{
+    background: #333;
+}

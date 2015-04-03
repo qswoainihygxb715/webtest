@@ -1,0 +1,26 @@
+*{
+    margin: 10px;
+    padding: 5px;
+}
+.table{
+    width:73%;
+    height: auto;
+    color: aliceblue;
+    text-align: left;
+}
+tr{
+    border: 1px;
+    display: table-row;
+    font-size: 20px;
+}
+
+.icon{
+    background: url("3.PNG");
+}
+
+
+.title{
+    font-size: 25px;
+    margin: auto;
+    border: double;
+}

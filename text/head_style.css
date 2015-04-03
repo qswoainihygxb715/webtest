@@ -1,0 +1,38 @@
+.picture{
+    display: block;
+    width:  140px;
+    height: 170px;;
+    text-decoration: none;
+
+    font-weight: bolder;
+    padding-left:15%;
+    padding-top: 5%;
+    margin: 10px 10px;
+    box-sizing: border-box;
+    background: url("3.PNG") no-repeat center  ;
+    position: absolute;
+}
+.box{
+    height: 50%;
+    width: 80%;
+    display: inline-block;
+}
+.shuoshuo{
+    height: inherit;
+    width: 50%;
+    margin-top:10%;
+    margin-left: 20%;
+    font-size: 22px;
+
+}
+.xingming{
+    color: #2DCB70;
+    font-family: "Î¢ÈíÑÅºÚ", Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+.sign{
+    color: aliceblue;
+}
+body{
+    background-color: #333;
+}
